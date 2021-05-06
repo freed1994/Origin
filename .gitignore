@@ -1,0 +1,10 @@
+#просто
+tmp/
+#так
+*_old
+#решил
+*_backup
+#почему
+Thumbs.db
+#нет
+.DS_Store
